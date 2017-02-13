@@ -35,4 +35,6 @@ public interface InReportDao {
 	 * @return
 	 */
 	public int updatePushDepotStatus(Map<String, Object> params);
+	
+	public void test();
 }
