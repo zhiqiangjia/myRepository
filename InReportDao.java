@@ -12,12 +12,7 @@ import com.morning.star.scm.open.vo.warehouse.InReportBillInfoVo;
  *
  */
 public interface InReportDao {
-    /**
-     * 新增入库预报信息
-     * @param record
-     * @return
-     */
-	int insertInReport(InReportEntity entity);
+
 	/**
 	 * 分页查询入库预报数据
 	 * @param params
