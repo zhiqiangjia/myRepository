@@ -17,7 +17,7 @@ public interface InReportDao {
      * @param record
      * @return
      */
-	int insertInReport(InReportEntity record);
+	int insertInReport(InReportEntity entity);
 	/**
 	 * 分页查询入库预报数据
 	 * @param params
