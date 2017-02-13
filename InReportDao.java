@@ -8,7 +8,7 @@ import com.morning.star.scm.open.vo.warehouse.InReportBillInfoVo;
 
 /**
  * 入库预报表的dao类
- * @author lenovo
+ * @author jiazhiqiang
  *
  */
 public interface InReportDao {
